@@ -1,7 +1,7 @@
 # Simple SNS
 
 ## Application Architecture 
-![system architecture](./doc/SystemArchitecture.png)
+![SystemArchitecture](https://github.com/Lib0823/Simple-SNS/assets/89591782/3a4bf7b2-6fca-419a-9a92-a1e597acde57)
 
 
 ## Flow Chart
